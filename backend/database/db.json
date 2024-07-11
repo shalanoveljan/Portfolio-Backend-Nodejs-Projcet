@@ -1,0 +1,140 @@
+{
+  "services": [
+    {
+      "id": 7,
+      "name": "Front-End Development",
+      "description": "Description"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "Back-End Development",
+      "percent": 70
+    },
+    {
+      "id": 2,
+      "name": "Front-End Development",
+      "percent": 100
+    }
+  ],
+  "portfolios": [
+    {
+      "id": 1,
+      "name": "Kinderland",
+      "description": "Kinderland",
+      "imageUrl": "https://kinderland.az/resize/center/pages/8/a6c91597-9866-4555-a501-68b5c3b24cea.png"
+    }
+  ],
+  "experiences": [
+    {
+      "id": 3,
+      "name": "GoTrend MMC",
+      "startDate": "2021-09-01",
+      "endDate": "2022-01-06",
+      "position": "Front-End Developer",
+      "description": "Description",
+      "imageUrl": "https://scontent.fgyd1-1.fna.fbcdn.net/v/t39.30808-6/301805170_366014862414277_3713992585010278096_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=a2iLGJqwYwQQ7kNvgG1iAz5&_nc_oc=Adhaic_pwBMHJaIl04hqUphhQke7MhnkhcBXEDWt8OA-mTXdx4StneXcDt3ctm2iOko&_nc_ht=scontent.fgyd1-1.fna&oh=00_AYBldSGZVmTVakDjTTyu4NAsbqT1qWSemxhq1aBWqa6lqw&oe=665B6A54"
+    },
+    {
+      "id": 4,
+      "name": "Optima Gropu Co",
+      "startDate": "2022-01-06T00:00:00.000Z",
+      "endDate": "2023-07-15T00:00:00.000Z",
+      "imageUrl": "https://media.licdn.com/dms/image/C4D0BAQE_btxt6ExaHQ/company-logo_200_200/0/1637322464366/optima_sirketler_qrupu_logo?e=2147483647&v=beta&t=TXsQK8cA-Rk9pX1nfvZdR-yVlW8EQz08yKxGZAJyEzs",
+      "position": "Front-End Developer"
+    },
+    {
+      "id": 5,
+      "name": "Apertech ERP Solutions",
+      "startDate": "2023-07-15T00:00:00.000Z",
+      "endDate": null,
+      "imageUrl": "https://media.licdn.com/dms/image/C4D0BAQFv9j7jJNeMCg/company-logo_200_200/0/1631304961753?e=2147483647&v=beta&t=xvHkgjYFpUhNwzwZ0CKe8wKa__s5cPh7d79iffEVJ_A",
+      "position": "Front-End Developer",
+      "description": "description"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "name": "Ogtay Afandi",
+      "email": "oktayafandiev@gmail.com",
+      "subject": "MERN-Stack Developer",
+      "message": "Test Message for Messages API"
+    },
+    {
+      "id": 2,
+      "name": "Oktay Afandiev",
+      "email": "oktayafandiev@gmail.com",
+      "subject": "asd",
+      "message": "asd"
+    },
+    {
+      "id": 3,
+      "name": "Oktay Afandiev",
+      "email": "oktayafandiev@gmail.com",
+      "subject": "asdasd",
+      "message": "asdasd"
+    },
+    {
+      "id": 4,
+      "name": "Oktay Afandiev",
+      "email": "oktayafandiev@gmail.com",
+      "subject": "asd",
+      "message": "asd"
+    },
+    {
+      "id": 5,
+      "name": "asd",
+      "email": "oktayafandiev@gmail.com",
+      "subject": "asd",
+      "message": "asd"
+    },
+    {
+      "id": 6,
+      "name": "Oktay Afandiev",
+      "email": "oktayafandiev@gmail.com",
+      "subject": "Subject",
+      "message": "asdasdasd"
+    },
+    {
+      "id": 7,
+      "name": "Oktay Afandiev",
+      "email": "oktayafandiev@gmail.com",
+      "subject": "Subject",
+      "message": "asdasd"
+    },
+    {
+      "id": 8,
+      "name": "Oktay Afandiev",
+      "email": "oktayafandiev@gmail.com",
+      "subject": "Subject",
+      "message": "Messages"
+    },
+    {
+      "id": 9,
+      "name": "Telman",
+      "email": "telman@telman.com",
+      "subject": "Subject",
+      "message": "Message"
+    }
+  ],
+  "settings": [
+    {
+      "id": 1,
+      "email": "oktayafandiev@gmail.com",
+      "facebookLink": "https://www.facebook.com/ogtayafandi/",
+      "linkedinLink": "https://www.linkedin.com/in/oktayafandi/",
+      "githubLink": "https://github.com/ogtayafandi",
+      "twitterLink": "https://x.com",
+      "aboutText": "Hello! I'm Ogtay, a passionate Front-End Developer based in Baku, Azerbaijan. With a career spanning since 2022, I thrive on the challenges of crafting user-friendly, visually appealing web sites and Ive been dedicated to crafting user-friendly web experiences, with a focus on ERP systems. Ive cultivated my skills through dedication and a relentless pursuit of improvement. Every day, I strive to push the boundaries of my knowledge, ensuring that I stay at the forefront of industry trends and technologies.",
+      "skillsText": "In id nulla magna. Nullam posuere fermentum mattis. Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam tempus, nunc id efficitur sagittis, urna est ultricies eros, ac porta sem turpis quis leo. Nulla in feugiat elit. Phasellus accumsan scelerisque dolor, quis mattis justo bibendum non. Nulla sollicitudin turpis in enim elementum varius. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae",
+      "clientCount": 10,
+      "projectCount": 12,
+      "lisenceCount": 3,
+      "experienceYear": 2,
+      "phoneNumber": "+994 55 303 91 91",
+      "addressText": "Azerbaijan, Baku, Ahmad Rajabli 16"
+    }
+  ]
+}
